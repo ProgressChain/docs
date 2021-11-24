@@ -27,6 +27,20 @@
 - Miner will receive rewards both in L2ETH and STBU, and will be able to transfer them to his wallet via the bridge
 - Changed block structure to support the payments in 2 tokens in parallel, with specification of an average value of transaction publication to L1
 - Proof of Stake 
+## Network structure
+
+![This is an image](https://i.ibb.co/C8BBG0N/Network-structure.jpg)
+
+## Block structure:
+
+![This is an image](https://i.ibb.co/CP7R6WY/Network-auto-bridge-ETH-to-STBU-1.jpg)
+
+# L1 - L2 communication schemes
+## General communication model:
+![This is an image](https://i.ibb.co/WH8MM6z/User-flow.jpg)
+
+## Block confirmation on mainnet
+![This is an image](https://i.ibb.co/9HrV8vV/Block-confirmation-on-Mainnet.jpg)
 
 ## Tokenomics
 
@@ -40,6 +54,13 @@
 - Average price for publication of transaction to L1 - 0.000025 L2ETH
 - L2 Gas price - 5 gwei
 
+## User flow
+![This is an image](https://i.ibb.co/6wpJSbg/2.jpg)
+
+## Network autobridge
+
+![This is an image](https://i.ibb.co/JxgFbWH/Network-auto-bridge-ETH-to-STBU.jpg)
+![This is an image](https://i.ibb.co/BzRbHf9/Network-auto-bridge-STBU-to-ETH.jpg)
 
 ## Permissions, access and control
 
@@ -47,6 +68,8 @@
   - User
   - Company
   - Nodes whitelist
+
+![This is an image](https://i.ibb.co/pn7y5tM/4.jpg)
   
 - Roles
   - Auditor
