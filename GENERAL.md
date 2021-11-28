@@ -1,4 +1,4 @@
-# Stobox Securities Chain
+# Stobox Progress Chain
 > The system is aimed to optimize the expenses during operations with digitalised securities, reduction of ERC-20 tokens transfer fee, reduction of fees for other operations, with the possibility to confirm the operation in the Ethereum mainnet.
 
 ![This is an image](https://i.ibb.co/jT0ZKYR/4e09a460-9b3e-47b0-a1e3-7a84efac055b.png)
