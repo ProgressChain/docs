@@ -29,18 +29,18 @@
 - Proof of Stake 
 ## Network structure
 
-![This is an image](https://i.ibb.co/C8BBG0N/Network-structure.jpg)
+![This is an image](https://stobox-images-chain.s3.eu-north-1.amazonaws.com/Network+structure.jpg)
 
 ## Block structure:
 
-![This is an image](https://i.ibb.co/CP7R6WY/Network-auto-bridge-ETH-to-STBU-1.jpg)
+![This is an image](https://stobox-images-chain.s3.eu-north-1.amazonaws.com/Network+auto+bridge+ETH+to+STBU-1.jpg)
 
 # L1 - L2 communication schemes
 ## General communication model:
-![This is an image](https://i.ibb.co/WH8MM6z/User-flow.jpg)
+![This is an image](https://stobox-images-chain.s3.eu-north-1.amazonaws.com/User+flow.jpg)
 
 ## Block confirmation on mainnet
-![This is an image](https://i.ibb.co/9HrV8vV/Block-confirmation-on-Mainnet.jpg)
+![This is an image](https://stobox-images-chain.s3.eu-north-1.amazonaws.com/Block+confirmation+on+Mainnet.jpg)
 
 ## Tokenomics
 
@@ -55,12 +55,12 @@
 - L2 Gas price - 5 gwei
 
 ## User flow
-![This is an image](https://i.ibb.co/6wpJSbg/2.jpg)
+![This is an image](https://stobox-images-chain.s3.eu-north-1.amazonaws.com/2.jpg)
 
 ## Network autobridge
 
-![This is an image](https://i.ibb.co/JxgFbWH/Network-auto-bridge-ETH-to-STBU.jpg)
-![This is an image](https://i.ibb.co/BzRbHf9/Network-auto-bridge-STBU-to-ETH.jpg)
+![This is an image](https://stobox-images-chain.s3.eu-north-1.amazonaws.com/Network+auto+bridge+ETH+to+STBU.jpg)
+![This is an image](https://stobox-images-chain.s3.eu-north-1.amazonaws.com/Network+auto+bridge+STBU+to+ETH.jpg)
 
 ## Permissions, access and control
 
@@ -69,7 +69,7 @@
   - Company
   - Nodes whitelist
 
-![This is an image](https://i.ibb.co/pn7y5tM/4.jpg)
+![This is an image](https://stobox-images-chain.s3.eu-north-1.amazonaws.com/4.jpg)
   
 - Roles
   - Auditor
